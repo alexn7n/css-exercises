@@ -1,0 +1,26 @@
+* {
+    font-family: sans-serif;
+}
+
+.pink-highlight {
+    background-color: #fb8c9e;
+    font-size: 18px;
+    color: #000000;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.large-heading {
+font-size: 24px;
+}
+
+#blue-heading {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#green-background {
+    background-color: #adff2f;
+    color: #000000;
+    font-size: 24px;
+    font-weight: bold;
+}
