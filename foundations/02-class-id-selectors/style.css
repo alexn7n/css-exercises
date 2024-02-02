@@ -6,7 +6,7 @@
     background-color: #fb8c9e;
     font-size: 18px;
     color: #000000;
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .large-heading {
@@ -21,6 +21,5 @@ font-size: 24px;
 #green-background {
     background-color: #adff2f;
     color: #000000;
-    font-size: 24px;
     font-weight: bold;
 }
